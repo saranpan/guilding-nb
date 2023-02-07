@@ -8,3 +8,4 @@ resource in form of colab notebook for learn any topics
 - Maximal Matching + Thai Character Cluster (used by newmm)
 - Deepcut
 - Attacut (Implement Conv1D)
+- SentencePiece
