@@ -6,6 +6,6 @@ resource in form of colab notebook for learn any topics
 - Maximal Matching
 - N-gram
 - Maximal Matching + Thai Character Cluster (used by newmm)
-- Deepcut
-- Attacut (Implement Conv1D)
+- Deepcut (Implement Conv1D)
+- Attacut 
 - SentencePiece
